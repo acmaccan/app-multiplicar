@@ -1,7 +1,7 @@
 # node-multiplicar
 
-» App desarrollada en el curso Node de Cero a Experto 2021 de Fernando Herrera<br/>
-» Aplicación para shell con Node.js + Yargs + Colors
+» Aplicación para multiplicar. Desarrollada para shell con Node.js + Yargs + Colors<br/>
+» Curso: Node de Cero a Experto 2021 de Fernando Herrera
 
 # Opciones
 ```

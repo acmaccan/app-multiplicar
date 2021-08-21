@@ -1,4 +1,4 @@
-# node-multiplicar
+# app-multiplicar
 
 » Aplicación para multiplicar. Desarrollada para shell con Node.js + Yargs + Colors<br/>
 » Curso: Node de Cero a Experto 2021 de Fernando Herrera

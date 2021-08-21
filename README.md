@@ -1,6 +1,9 @@
-# Notas
-De mis primeros programas en Node
+# node-multiplicar
 
+» App desarrollada en el curso Node de Cero a Experto 2021 de Fernando Herrera<br/>
+» Aplicación para shell con Node.js + Yargs + Colors
+
+# Opciones
 ```
 Options:
         --help     Show help                                [boolean]

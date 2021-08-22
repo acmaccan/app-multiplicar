@@ -2,7 +2,7 @@
 
 » Fecha: 2021.06.22<br/>
 » Aplicación para multiplicar. Desarrollada para shell con Node.js + Yargs + Colors<br/>
-» Curso: Node de Cero a Experto 2021 de Fernando Herrera
+» Curso: Node de Cero a Experto 2021 de Fernando Herrera<br/>
 
 # Opciones
 ```
